@@ -1,3 +1,6 @@
+문법 참조: https://github.com/opencv/opencv
+이미지 참조: https://pixabay.com/ko/
+
 ## 제~목
 # 제목
 ---
